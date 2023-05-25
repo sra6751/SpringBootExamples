@@ -1,0 +1,6 @@
+com\example\security\repository\UserRepository.class
+com\example\security\entity\UserEntity.class
+com\example\security\model\CustomeUserDetail.class
+com\example\security\model\CustomeUserDetailService.class
+com\example\security\SpringSecurityApplication.class
+com\example\security\configuration\UserConfiguration.class
